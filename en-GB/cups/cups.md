@@ -92,7 +92,7 @@ No ball. That's because your `<div class="ball"></div>` has no size.
 
 You can use CSS[^5] to give the ball some dimension.
 
-    div.ball
+	.ball
 	{
 		width: 60px;
 		height: 60px;
@@ -221,7 +221,7 @@ Now all cups look *grounded*. According to your browser though, **the cups are *
 
 And that ball, doesn't it look like it's about to fall? Should we **move the ball**?
 
-* Add `left: 70px;` inside your `div.ball` CSS rule.
+* Add `left: 70px;` inside your `.ball` CSS rule.
 
 * Save, go to your browser and refresh the page. Did the ball move?
 
@@ -272,7 +272,7 @@ How do you shuffle the ball, so that it's not always under the same cup?
 
 <!-- play around with left:XX; -->
 
-* Play around with the value of `left` in the `div.ball` CSS rule. 
+* Play around with the value of `left` in the `.ball` CSS rule. 
 
 For example, if you set it  to `left: 270px;` the ball will go under the second cup.
 
