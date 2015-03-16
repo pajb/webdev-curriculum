@@ -11,7 +11,7 @@ note: "notes.md"
 
 # Introduction { .intro}
 
-Under which cup is the the ball?
+Which cup is the ball under?
 
 Can you **code your own Cups & Balls game**, so that anyone on the Web can enjoy playing it?
 
